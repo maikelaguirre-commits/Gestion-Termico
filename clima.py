@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # =========================
 # CONFIGURACIÓN DE PÁGINA
